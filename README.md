@@ -24,7 +24,7 @@ Create a new database and collection (sample_restaurants) and import data (resta
 Clone the project
 
 ```bash
-git@github.com:sharang1996/batch-data-migration.git
+git clone git@github.com:sharanggupta/batch-data-migration.git
 ```
 
 Go to the project directory
